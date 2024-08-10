@@ -1,3 +1,9 @@
-node_modules/
-build/
+
+# Python environment
 venv/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
